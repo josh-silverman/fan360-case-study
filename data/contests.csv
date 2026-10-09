@@ -1,0 +1,5 @@
+contest_id,contest_name,sponsor_name,contest_type,start_datetime_utc,end_datetime_utc
+C101,Signed Jersey Sweepstakes,Harborline Bank (fictional),SWEEPSTAKES,2025-10-01T13:00:00Z,2025-11-15T04:59:59Z
+C102,Gameday Experience Survey,,SURVEY,2025-12-01T13:00:00Z,2026-01-31T04:59:59Z
+C103,Concert Presale Access,Coastal Wireless (fictional),REGISTRATION,2026-01-10T15:00:00Z,2026-02-10T04:59:59Z
+C104,Holiday Merch Bundle Giveaway,North End Outfitters (fictional),SWEEPSTAKES,2025-11-20T14:00:00Z,2025-12-20T04:59:59Z

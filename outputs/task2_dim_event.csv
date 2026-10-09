@@ -1,0 +1,76 @@
+event_id,event_name,event_type,event_subtype,opponent,season,venue,event_datetime_local,event_datetime_utc,is_bruins_game,has_scan_data
+EV1001,Bruins vs. Los Angeles Kings (Preseason),NHL,PRESEASON,Los Angeles Kings,2025-26,TD Garden,2025-09-23 19:00:00,2025-09-23 23:00:00+00,t,t
+EV1002,Bruins vs. New York Rangers (Preseason),NHL,PRESEASON,New York Rangers,2025-26,TD Garden,2025-09-28 17:00:00,2025-09-28 21:00:00+00,t,t
+EV1003,Bruins vs. Chicago Blackhawks (Preseason),NHL,PRESEASON,Chicago Blackhawks,2025-26,TD Garden,2025-10-03 19:00:00,2025-10-03 23:00:00+00,t,t
+EV1004,Bruins vs. Edmonton Oilers,NHL,REGULAR,Edmonton Oilers,2025-26,TD Garden,2025-10-11 19:00:00,2025-10-11 23:00:00+00,t,t
+EV1005,Bruins vs. Los Angeles Kings,NHL,REGULAR,Los Angeles Kings,2025-26,TD Garden,2025-10-14 19:00:00,2025-10-14 23:00:00+00,t,t
+EV1006,Bruins vs. Vegas Golden Knights,NHL,REGULAR,Vegas Golden Knights,2025-26,TD Garden,2025-10-19 19:00:00,2025-10-19 23:00:00+00,t,t
+EV1007,Bruins vs. Philadelphia Flyers,NHL,REGULAR,Philadelphia Flyers,2025-26,TD Garden,2025-10-24 19:00:00,2025-10-24 23:00:00+00,t,t
+EV1008,Bruins vs. Anaheim Ducks,NHL,REGULAR,Anaheim Ducks,2025-26,TD Garden,2025-10-26 19:00:00,2025-10-26 23:00:00+00,t,t
+EV1009,Bruins vs. Chicago Blackhawks,NHL,REGULAR,Chicago Blackhawks,2025-26,TD Garden,2025-10-28 19:00:00,2025-10-28 23:00:00+00,t,t
+EV1010,Bruins vs. St. Louis Blues,NHL,REGULAR,St. Louis Blues,2025-26,TD Garden,2025-11-02 13:00:00,2025-11-02 18:00:00+00,t,t
+EV1011,Bruins vs. Seattle Kraken,NHL,REGULAR,Seattle Kraken,2025-26,TD Garden,2025-11-06 19:00:00,2025-11-07 00:00:00+00,t,t
+EV1012,Bruins vs. New York Rangers,NHL,REGULAR,New York Rangers,2025-26,TD Garden,2025-11-08 19:00:00,2025-11-09 00:00:00+00,t,t
+EV1013,Bruins vs. Columbus Blue Jackets,NHL,REGULAR,Columbus Blue Jackets,2025-26,TD Garden,2025-11-12 19:00:00,2025-11-13 00:00:00+00,t,t
+EV1014,Bruins vs. Philadelphia Flyers,NHL,REGULAR,Philadelphia Flyers,2025-26,TD Garden,2025-11-18 19:00:00,2025-11-19 00:00:00+00,t,t
+EV1015,Bruins vs. Buffalo Sabres,NHL,REGULAR,Buffalo Sabres,2025-26,TD Garden,2025-11-20 19:00:00,2025-11-21 00:00:00+00,t,t
+EV1016,Bruins vs. Calgary Flames,NHL,REGULAR,Calgary Flames,2025-26,TD Garden,2025-11-26 19:00:00,2025-11-27 00:00:00+00,t,t
+EV1017,Bruins vs. San Jose Sharks,NHL,REGULAR,San Jose Sharks,2025-26,TD Garden,2025-11-29 19:00:00,2025-11-30 00:00:00+00,t,t
+EV1018,Bruins vs. Vancouver Canucks,NHL,REGULAR,Vancouver Canucks,2025-26,TD Garden,2025-12-01 19:00:00,2025-12-02 00:00:00+00,t,t
+EV1019,Bruins vs. Dallas Stars,NHL,REGULAR,Dallas Stars,2025-26,TD Garden,2025-12-04 19:00:00,2025-12-05 00:00:00+00,t,t
+EV1020,Bruins vs. Florida Panthers,NHL,REGULAR,Florida Panthers,2025-26,TD Garden,2025-12-08 19:00:00,2025-12-09 00:00:00+00,t,t
+EV1021,Bruins vs. Pittsburgh Penguins,NHL,REGULAR,Pittsburgh Penguins,2025-26,TD Garden,2025-12-13 19:00:00,2025-12-14 00:00:00+00,t,t
+EV1022,Bruins vs. Montreal Canadiens,NHL,REGULAR,Montreal Canadiens,2025-26,TD Garden,2025-12-18 19:00:00,2025-12-19 00:00:00+00,t,t
+EV1023,Bruins vs. Winnipeg Jets,NHL,REGULAR,Winnipeg Jets,2025-26,TD Garden,2025-12-20 19:00:00,2025-12-21 00:00:00+00,t,t
+EV1024,Bruins vs. Tampa Bay Lightning,NHL,REGULAR,Tampa Bay Lightning,2025-26,TD Garden,2025-12-22 19:00:00,2025-12-23 00:00:00+00,t,t
+EV1025,Bruins vs. Florida Panthers,NHL,REGULAR,Florida Panthers,2025-26,TD Garden,2025-12-27 19:00:00,2025-12-28 00:00:00+00,t,t
+EV1026,Bruins vs. Carolina Hurricanes,NHL,REGULAR,Carolina Hurricanes,2025-26,TD Garden,2025-12-30 19:00:00,2025-12-31 00:00:00+00,t,t
+EV1027,Bruins vs. Nashville Predators,NHL,REGULAR,Nashville Predators,2025-26,TD Garden,2026-01-02 19:00:00,2026-01-03 00:00:00+00,t,f
+EV1028,Bruins vs. Ottawa Senators,NHL,REGULAR,Ottawa Senators,2025-26,TD Garden,2026-01-06 19:00:00,2026-01-07 00:00:00+00,t,t
+EV1029,Bruins vs. New Jersey Devils,NHL,REGULAR,New Jersey Devils,2025-26,TD Garden,2026-01-12 19:00:00,2026-01-13 00:00:00+00,t,t
+EV1030,Bruins vs. Tampa Bay Lightning,NHL,REGULAR,Tampa Bay Lightning,2025-26,TD Garden,2026-01-16 19:00:00,2026-01-17 00:00:00+00,t,t
+EV1031,Bruins vs. Winnipeg Jets,NHL,REGULAR,Winnipeg Jets,2025-26,TD Garden,2026-01-19 19:00:00,2026-01-20 00:00:00+00,t,t
+EV1032,Bruins vs. New Jersey Devils,NHL,REGULAR,New Jersey Devils,2025-26,TD Garden,2026-01-25 13:00:00,2026-01-25 18:00:00+00,t,t
+EV1033,Bruins vs. Washington Capitals,NHL,REGULAR,Washington Capitals,2025-26,TD Garden,2026-01-28 19:00:00,2026-01-29 00:00:00+00,t,t
+EV1034,Bruins vs. Los Angeles Kings,NHL,REGULAR,Los Angeles Kings,2025-26,TD Garden,2026-02-03 19:00:00,2026-02-04 00:00:00+00,t,t
+EV1035,Bruins vs. Chicago Blackhawks,NHL,REGULAR,Chicago Blackhawks,2025-26,TD Garden,2026-02-25 19:00:00,2026-02-26 00:00:00+00,t,t
+EV1036,Bruins vs. Washington Capitals,NHL,REGULAR,Washington Capitals,2025-26,TD Garden,2026-02-27 19:00:00,2026-02-28 00:00:00+00,t,t
+EV1037,Bruins vs. Utah Mammoth,NHL,REGULAR,Utah Mammoth,2025-26,TD Garden,2026-03-02 19:00:00,2026-03-03 00:00:00+00,t,t
+EV1038,Bruins vs. New York Islanders,NHL,REGULAR,New York Islanders,2025-26,TD Garden,2026-03-06 19:00:00,2026-03-07 00:00:00+00,t,t
+EV1039,Bruins vs. Toronto Maple Leafs,NHL,REGULAR,Toronto Maple Leafs,2025-26,TD Garden,2026-03-10 19:00:00,2026-03-10 23:00:00+00,t,t
+EV1040,Bruins vs. Colorado Avalanche,NHL,REGULAR,Colorado Avalanche,2025-26,TD Garden,2026-03-13 19:00:00,2026-03-13 23:00:00+00,t,t
+EV1041,Bruins vs. Minnesota Wild,NHL,REGULAR,Minnesota Wild,2025-26,TD Garden,2026-03-18 19:00:00,2026-03-18 23:00:00+00,t,t
+EV1042,Bruins vs. Anaheim Ducks,NHL,REGULAR,Anaheim Ducks,2025-26,TD Garden,2026-03-22 19:00:00,2026-03-22 23:00:00+00,t,t
+EV1043,Bruins vs. Pittsburgh Penguins,NHL,REGULAR,Pittsburgh Penguins,2025-26,TD Garden,2026-03-24 19:00:00,2026-03-24 23:00:00+00,t,t
+EV1044,Bruins vs. Detroit Red Wings,NHL,REGULAR,Detroit Red Wings,2025-26,TD Garden,2026-03-28 19:00:00,2026-03-28 23:00:00+00,t,t
+EV1045,The Lantern Keys - Harbor Lights Tour,CONCERT,CONCERT,,2025-26,TD Garden,2026-01-01 20:00:00,2026-01-02 01:00:00+00,f,t
+EV1046,Mara Vesta - Live in Boston,CONCERT,CONCERT,,2025-26,TD Garden,2026-03-23 20:00:00,2026-03-24 00:00:00+00,f,t
+EV1047,Northbound Static,CONCERT,CONCERT,,2025-26,TD Garden,2026-03-29 20:00:00,2026-03-30 00:00:00+00,f,t
+EV1048,DJ Solace - Midnight Circuit,CONCERT,CONCERT,,2025-26,TD Garden,2026-05-13 20:00:00,2026-05-14 00:00:00+00,f,t
+EV1049,The Copper Pines,CONCERT,CONCERT,,2025-26,TD Garden,2026-01-20 20:00:00,2026-01-21 01:00:00+00,f,t
+EV1050,Lila Monroe & The Tides,CONCERT,CONCERT,,2025-26,TD Garden,2025-12-05 20:00:00,2025-12-06 01:00:00+00,f,t
+EV1051,Velvet Arcade Reunion,CONCERT,CONCERT,,2025-26,TD Garden,2025-12-21 20:00:00,2025-12-22 01:00:00+00,f,t
+EV1052,Juno Park - World Tour,CONCERT,CONCERT,,2025-26,TD Garden,2025-12-23 20:00:00,2025-12-24 01:00:00+00,f,t
+EV1053,Brass Harbor Holiday Show,CONCERT,CONCERT,,2025-26,TD Garden,2026-04-26 20:00:00,2026-04-27 00:00:00+00,f,t
+EV1054,Kestrel - Final Flight Tour,CONCERT,CONCERT,,2025-26,TD Garden,2026-02-02 20:00:00,2026-02-03 01:00:00+00,f,t
+EV1055,The Low Tide Collective,CONCERT,CONCERT,,2025-26,TD Garden,2026-04-19 20:00:00,2026-04-20 00:00:00+00,f,t
+EV1056,Ember & Ash,CONCERT,CONCERT,,2025-26,TD Garden,2026-05-08 20:00:00,2026-05-09 00:00:00+00,f,t
+EV1057,Ice Spectacular: Winter Tales,FAMILY,FAMILY,,2025-26,TD Garden,2026-03-17 11:00:00,2026-03-17 15:00:00+00,f,t
+EV1058,Ice Spectacular: Winter Tales,FAMILY,FAMILY,,2025-26,TD Garden,2026-02-11 11:00:00,2026-02-11 16:00:00+00,f,t
+EV1059,Monster Wheels Arena Tour,FAMILY,FAMILY,,2025-26,TD Garden,2026-04-28 11:00:00,2026-04-28 15:00:00+00,f,t
+EV1060,Circus Luminous,FAMILY,FAMILY,,2025-26,TD Garden,2025-11-13 11:00:00,2025-11-13 16:00:00+00,f,t
+EV1061,Danny Brookes - Too Soon Tour,COMEDY,COMEDY,,2025-26,TD Garden,2025-12-28 20:00:00,2025-12-29 01:00:00+00,f,t
+EV1062,Priya Shah Live,COMEDY,COMEDY,,2025-26,TD Garden,2026-01-30 20:00:00,2026-01-31 01:00:00+00,f,t
+EV1063,Collegiate Hockey Tournament - Semifinals,OTHER,OTHER,,2025-26,TD Garden,2025-11-01 19:00:00,2025-11-01 23:00:00+00,f,t
+EV1064,Collegiate Hockey Tournament - Final,OTHER,OTHER,,2025-26,TD Garden,2026-04-24 19:00:00,2026-04-24 23:00:00+00,f,t
+EV1065,Pro Wrestling: Garden Rumble,OTHER,OTHER,,2025-26,TD Garden,2025-10-10 19:00:00,2025-10-10 23:00:00+00,f,t
+EV1066,Championship Boxing Night,OTHER,OTHER,,2025-26,TD Garden,2026-01-11 19:00:00,2026-01-12 00:00:00+00,f,t
+EV1067,Sienna Hale,CONCERT,CONCERT,,2025-26,TD Garden,2026-03-19 20:00:00,2026-03-20 00:00:00+00,f,t
+EV1068,The Midnight Ferry,CONCERT,CONCERT,,2025-26,TD Garden,2025-12-17 20:00:00,2025-12-18 01:00:00+00,f,t
+EV1069,Late Night Laughs Tour,COMEDY,COMEDY,,2025-26,TD Garden,2026-01-08 20:00:00,2026-01-09 01:00:00+00,f,t
+EV1070,Orchard Street Band,CONCERT,CONCERT,,2025-26,TD Garden,2025-10-18 20:00:00,2025-10-19 00:00:00+00,f,t
+EV1071,Bruins vs. Chicago Blackhawks,NHL,REGULAR,Chicago Blackhawks,2026-27,TD Garden,2026-10-08 19:00:00,2026-10-08 23:00:00+00,t,f
+EV1072,Bruins vs. Montreal Canadiens,NHL,REGULAR,Montreal Canadiens,2026-27,TD Garden,2026-10-10 19:00:00,2026-10-10 23:00:00+00,t,f
+EV1073,Bruins vs. Florida Panthers,NHL,REGULAR,Florida Panthers,2026-27,TD Garden,2026-10-14 19:00:00,2026-10-14 23:00:00+00,t,f
+EV1074,Bruins vs. Toronto Maple Leafs,NHL,REGULAR,Toronto Maple Leafs,2026-27,TD Garden,2026-10-17 19:00:00,2026-10-17 23:00:00+00,t,f
+EV1075,Bruins vs. Dallas Stars,NHL,REGULAR,Dallas Stars,2026-27,TD Garden,2026-10-21 19:00:00,2026-10-21 23:00:00+00,t,f
